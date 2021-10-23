@@ -1,9 +1,10 @@
 # Hi guys! 😀
 
-● My name is Elvin and I am Python Developer\n
+● My name is Elvin and I am Python Developer
 <br />
 ● I am currently learning JavaScript and Django
 <br />
+● I know HTML5, CSS3, Python, Git and SQL(PostgreSQL)
 
 Languages and Tools
 
