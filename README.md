@@ -1,6 +1,6 @@
 # Hi guys! 😀
 
-● My name is Elvin and I am Python Developer
+● My name is Elvin and I am Python Developer\n
 ● I am using Python, JavaScript, HTML5, CSS3, Django and PostgreSQL
 
 Languages and Tools
