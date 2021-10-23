@@ -3,6 +3,8 @@
 ● My name is Elvin and I am Python Developer\n
 <br />
 ● I am currently learning JavaScript and Django
+<br />
+● My first project with my friend: 24mountain.ru
 
 Languages and Tools
 
