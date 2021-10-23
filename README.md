@@ -2,7 +2,7 @@
 
 ● My name is Elvin and I am Python Developer\n
 <br />
-● I am using Python, JavaScript, HTML5, CSS3, Django and PostgreSQL
+● I am currently learning JavaScript and Django
 
 Languages and Tools
 
