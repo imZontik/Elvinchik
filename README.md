@@ -4,7 +4,6 @@
 <br />
 ● I am currently learning JavaScript and Django
 <br />
-● My first project with my friend: 24mountain.ru
 
 Languages and Tools
 
