@@ -1,5 +1,10 @@
 # Hi guys! 😀
 
+● My name is Elvin and I am Python Developer
+● I am using Python, JavaScript, HTML5, CSS3, Django and PostgreSQL
+
+Languages and Tools
+
 ![Flutter](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![Flutter](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![Flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
