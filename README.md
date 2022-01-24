@@ -4,7 +4,7 @@
 <br />
 ● I am currently learning Java and Django
 <br />
-● I know HTML5, CSS3, Python, Git and SQL(PostgreSQL)
+● I know HTML5, CSS3, Python, Git and SQL(PostgreSQL, MySQL)
 
 Languages and Tools
 
@@ -13,4 +13,5 @@ Languages and Tools
 ![Flutter](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 ![Flutter](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Flutter](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Flutter](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![Flutter](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
